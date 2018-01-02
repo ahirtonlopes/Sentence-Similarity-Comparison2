@@ -2,7 +2,7 @@
 
 """
 __author__ = "Ahirton Lopes"
-__copyright__ = "Copyright 2017, FCamara/Duratex"
+__copyright__ = "Copyright 2018, FCamara/Duratex"
 __credits__ = ["Ahirton Lopes"]
 __license__ = "None"
 __version__ = "1.0"
